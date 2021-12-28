@@ -1,4 +1,4 @@
-### Hi there 👋
+May your code be small as the acorn, strong as the oak, simple as the wheel, and swift as the wind.
 
 <!--
 **Damian0401/Damian0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
