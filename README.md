@@ -1,4 +1,10 @@
-May your code be small as the acorn, strong as the oak, simple as the wheel, and swift as the wind.
+# Hi there 👋
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Damian0401">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damian0401&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!--
 **Damian0401/Damian0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
